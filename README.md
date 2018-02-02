@@ -4,8 +4,8 @@ This is a simple JavaScript application that draws lines on a canvas in web brow
 
 ## How To Use It
 
-Put both the JavaScript and HTML file in the same directory. Double click on the HTML file to open the application up in a web browser
+Put both the JavaScript file and HTML file in the same directory. Double click on the HTML file to open the application up in a web browser.
 
 ## Motivation
 
-This is just a group assignment from a class a while back
+This is just a group assignment from a class a while back.
